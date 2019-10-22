@@ -1,4 +1,4 @@
-Calculator.js: a node.js Demonstration Project
+[![Build Status](https://dev.azure.com/manishdemodevopps/ManishShuttle/_apis/build/status/manish-karn.calculator?branchName=master)](https://dev.azure.com/manishdemodevopps/ManishShuttle/_build/latest?definitionId=4&branchName=master)Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
